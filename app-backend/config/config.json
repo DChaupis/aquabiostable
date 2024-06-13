@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "aquabiostable_back",
+      "password": "4qu4bio$tabl3",
+      "database": "db_aquabiostable",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
